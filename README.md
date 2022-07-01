@@ -15,14 +15,14 @@ I Guess This Will Be Usefull For Many People.....😇.
 - Add the bot to Database Channel with all permission
 - Add bot to ForceSub channel as Admin with Invite Users via Link Permission if you enabled ForceSub 
 
-## ㅤㅤㅤᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
-ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ꜰᴀʟʟᴇɴ ʀᴏʙᴏᴛ
+## ㅤㅤㅤDeploy On Heroku 🚀
+ㅤㅤㅤThe Easy Way To Deploy File-Store-Bot 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TG-SURAJ/File-Store-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/CodeXBotz/File-Sharing-Bot
-cd File-Sharing-Bot
+git clone https://github.com/TG-SURAJ/File-Store-Bot
+cd File-Store-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
@@ -41,7 +41,7 @@ python3 main.py
 
 /broadcast - broadcast any messages to bot users
 
-/ping
+/ping - to get bot ping
 ```
 
 ### Variables
