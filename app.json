@@ -1,5 +1,5 @@
 {
-  "name": "File-Store-Bot",
+  "name": "Sharing-File-Bot",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
@@ -15,7 +15,7 @@
     },
     "OWNER": {
       "description": "Enter Your Telegram Username [ Without @ ]",
-      "value": "KingOf_univers"
+      "value": "AkshatKe"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
