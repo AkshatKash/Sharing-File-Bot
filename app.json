@@ -19,7 +19,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1345179077"
+      "value": "1907971261"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
