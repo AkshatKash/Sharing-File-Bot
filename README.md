@@ -17,7 +17,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ## ㅤㅤㅤDeploy On Heroku 🚀
 ㅤㅤㅤThe Easy Way To Deploy File-Store-Bot 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TG-SURAJ/File-Store-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AkshatKash/Sharing-File-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 #### Deploy in your VPS
 ````bash
