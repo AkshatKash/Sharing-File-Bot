@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/TG-SURAJ/File-Store-Bot",
+  "repository": "https://github.com/AkshatKash/Sharing-File-Bot",
   "logo": "https://telegra.ph/file/e08467ead01c2b2bba293.jpg",
   "env": {
     "TG_BOT_TOKEN": {
